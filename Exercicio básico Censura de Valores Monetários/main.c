@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 #include <string.h>
-
+	//Programa feito para identificar e censurar valores monetarios.
 int main(void){
 	//-----------------------------
     //Declaracao de todas as variaveis.
