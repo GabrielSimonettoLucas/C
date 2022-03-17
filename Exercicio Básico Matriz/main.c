@@ -15,7 +15,7 @@ void printMatriz(int matrizX, int matrizY, int matriz[matrizX][matrizY]){
 }
 
 int processaMatriz(int matrizX, int matrizY, int valor, int matriz[matrizX][matrizY]){
-    //identifica os elementos menoros que o valor insirido pelo usuário.
+    //identifica os elementos menores que o valor insirido pelo usuário.
 	int contagem, contagem1, mud=0;
 	for(contagem=0;contagem<matrizX;contagem++){
 		for(contagem1=0;contagem1<matrizY;contagem1++){
