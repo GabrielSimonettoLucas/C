@@ -14,7 +14,7 @@ int main() {
 	int idade, contador, quantidade, denominador1=0, denominador2=0, denominador3=0, denominador4=0;
 	//---------------------------------
 
-	printf("Informe a quantia de pessoas para realizar a média:");
+	printf("Informe a quantia de pessoas para realizar a media:");
 	scanf(" %d", &quantidade);
 	printf("Envie a idade e o peso de cada pessoa\n");
 	
