@@ -20,7 +20,7 @@ int main() {
 	scanf(" %lf", &tarifa);
     printf("Informe a Taxa de Impostos.\n");
 	scanf(" %lf", &taxas_impostos);
-    printf("Informe a Taxa de Serviços.\n");
+    printf("Informe a Taxa de Servicos.\n");
 	scanf(" %lf", &servicos);
 
     //---------------------------------------------
