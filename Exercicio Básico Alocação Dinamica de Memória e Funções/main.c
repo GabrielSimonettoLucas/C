@@ -14,7 +14,7 @@ void imprimir (int *vetor, int tamanho){
 }
 
 void preencher (int *vetor, int tamanho){
-    //funcao utilizada apenas para preencher o vetor, usado apenas como exemplo.
+    //funcao utilizada para preencher o vetor, usado apenas como exemplo.
     int a;
 	for(a=0;a<tamanho;a++){
 		vetor[a]=a+1;
