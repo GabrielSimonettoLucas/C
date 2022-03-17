@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-
-
+//Programa usado para criar uma estrutura com diversas informações de cliente, e pesquisar tais informações através do seu ID.
 //------------------------------------------------------------------------
 // declarando as estruturas.
 typedef struct enderecoo {
