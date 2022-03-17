@@ -4,6 +4,9 @@
 #include <string.h>
 #include <ctype.h>
 #include <locale.h>
+
+//Programa feito para criar uma estrutura com daddos de algum produto, receber esses dados da entrada padrão, salva-los em um arquivo .bin, exibir a descrição e pesquisar seu estoque apartir do ID.
+
 //---------------------------------------------------------------
 void cadastrar_produto(void);
 void mostrar_produtos(void);
