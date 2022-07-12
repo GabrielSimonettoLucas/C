@@ -1,0 +1,4 @@
+O objetivo dessa atividade é simular um compilador utilizando a estrutura de dados 
+Pilha Dinâmica, o programa deve receber como argumento um arquivo de texto como entrada,
+contendo expressões alfa-numéricas no padrão de notação pós-fixada, e um arquivo de texto como saida 
+retornando cada passo da equação e as validando.
