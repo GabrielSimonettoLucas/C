@@ -1,0 +1,9 @@
+O objetivo dessa atividade é usar listas dinâmicas duplamente encadeadas para simular a 
+lista de pacientes em uma clínica, o programa deve receber como argumento um arquivo.txt 
+como entrada, e um arquivo.txt como saída, o arquivo de entrada deve conter informações 
+como, o id do paciente, nome, sexo, idade, peso, altura e o telefone de contato, tendo 
+logo em seguida um número indicando qual função vai ser realizada, o "1" para imprimir 
+em ordem crescente as informações dos pacientes (segundo seu id), "2" para imprimir de 
+forma decrescente as informações dos pacientes (segundo seu id) e "3" para pesquisar 
+pelo id se o paciente consta na lista ou não, já o arquivo de saída irá retornar o 
+resultado da função selecionada.
